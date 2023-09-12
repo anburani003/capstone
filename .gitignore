@@ -22,13 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Ignore the node_modules directory
-node_modules/
-
-# Ignore log files
-*.log
-
-# Ignore compiled Python files
-_pycache_/
-*.pyc
-*.pyo
+node_modules
+build

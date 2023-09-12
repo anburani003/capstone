@@ -1,12 +1,2 @@
-# Ignore specific files
-secret_key.txt
-.env
-
-# Ignore a directory and its contents
-logs/
-
-# Ignore all files with a specific extension
-*.log
-
-# Ignore all files and directories within a specific directory
-temp/*
+node_modules
+build
